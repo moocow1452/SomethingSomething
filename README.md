@@ -1,4 +1,4 @@
 SomethingSomething
 ==================
 
-Unnamed Local Detroit Project
+Unnamed Local Michigan Project
